@@ -15,3 +15,5 @@
 
 # for customization use css file 
 * Carous.css 
+
+# it is only for react project 
