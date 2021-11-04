@@ -12,3 +12,6 @@
 
 
 * SwiperCore.use([EffectCoverflow, Navigation, Pagination]);
+
+# for customization use css file 
+* Carous.css 
