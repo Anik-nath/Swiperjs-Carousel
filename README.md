@@ -19,3 +19,8 @@ npm install swiper@6.8.4
 * Carous.css 
 
 # it is only for react project 
+
+
+![sliderCapture](https://user-images.githubusercontent.com/67818482/141657588-87ececeb-031c-458f-941f-bc551d740861.PNG)
+
+
